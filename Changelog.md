@@ -13,3 +13,13 @@ What was added:
 * Design changes.
 * Critical errors fixed.
 #
+
+# Texture 1.1.4
+Release date: 3.1.2020 (Morning)
+
+What was added:
+* Class Texture was renamed to Animation!
+* Class Texture is also still there but now it is doing something different.
+* Some methods was renamed!
+* New part of library called GraphicsManipulator. Main library cant work without GraphicsManipulator.
+#
