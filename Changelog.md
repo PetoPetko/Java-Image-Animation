@@ -23,3 +23,13 @@ What was added:
 * Some methods was renamed!
 * New part of library called GraphicsManipulator. Main library cant work without GraphicsManipulator.
 #
+
+# Texture 1.1.5
+Release date: 6.25.2020 (Noon)
+
+What was added:
+* "Retardation" was renamed to "frameTime" because its better fits to represent what it is actualy doing. And also "retardation" sounds strange :)
+* Some new functions in Animation as well as in Texture class.
+* New functions in GraphicsManipulator and some bugs fixeds.
+#
+
