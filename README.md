@@ -1,6 +1,7 @@
 ## About
 Texture library can animate 2D images!
 Since 1.1.4 it requires GraphicsManipulator.
+GraphicsManipulator is a utility library with tons of useful to work with JavaFx image as well as with java AWT BufferedImage.
 ## Info
 * If you want to add or see issues just click on [Issues section](https://github.com/PetoPetko/Texture-Animation/issues) in up.
 * If you want to comment use [Issues section](https://github.com/PetoPetko/Texture-Animation/issues) too or contact me on my mail.
