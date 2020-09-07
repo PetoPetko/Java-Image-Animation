@@ -33,3 +33,13 @@ What was added:
 * New functions in GraphicsManipulator and some bugs fixeds.
 #
 
+# Texture 1.1.6
+Release date: 9.6.2020 (Evening)
+
+What was added:
+* Ability to set speed multiplier of Animation!
+* Ability to edit each frame of animation using new interface FxImageEditor from GraphicsManipulator!
+* New method "Contains" in GraphicsManipulator utility!
+* Texture now implements Iterable interface and shares Iterator with "layers" array!
+* Some small bugs fixed like Texture will not visually clear after layers.clear() was called! 
+#
