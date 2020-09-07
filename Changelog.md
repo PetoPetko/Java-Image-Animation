@@ -34,7 +34,7 @@ What was added:
 #
 
 # Texture 1.1.6
-Release date: 9.7.2020 (Evening)
+Release date: 9.7.2020 (Night)
 
 What was added:
 * Ability to set speed multiplier of Animation!
